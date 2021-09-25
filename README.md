@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a freshman at Bilkent University
+### Hi!!😊I'm a computer science student and I'm a freshman at Bilkent University.
 
 <!--
 **sila-ozel/sila-ozel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
